@@ -1,3 +1,4 @@
+# Combined Facebook and Google Ads Analysis: Merging and Aggregating Data
 This project involves merging and analyzing data from Facebook and Google ad campaigns using CTE (Common Table Expressions). The following steps outline the process of combining data, aggregating key metrics, and identifying top-performing campaigns and ad sets.
 
 ## Steps Undertaken
